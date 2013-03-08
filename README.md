@@ -1,16 +1,38 @@
 theme_bootstrap_alice
 =====================
 
-The design of this theme is very appealing for all type of educational institutes. This theme is based on the bootstrap css framework    
-	
+This theme is based on bootstrap css framework. We used bootstrap moodle theme file in our theme.	 
 
-1. Responsive web design 
-2. Collapsed menu (only when jQuery is enabled)
-3  Tested on different browsers
-4  Bootstrap tabs
-5  Tested for Moodle 2.4
-6  Nice Layout design
+
+- based on two column layout.
+
+- Responsive web design supporting tablets & mobiles
+
+- Collapsed menu:  Change the position of menu in theme and customize menu look.
+
+- Tested in all major browsers eg.(firefox, Chrome, safari opera .etc)
+
+- you can add custom logo from theme settings page.
+
+- improved block design.
+
+- improved chat window
 
 In this theme Using Bootstrap Version 2.1.1
 
- https://github.com/hasanvidya/theme_bootstrap_alice
+Features:
+
+Working in all browsers with responsive design.
+Working fine in IE browser less than IE7.
+Design for learning purpose
+
+
+This is a GPL theme that is available on GitHub:
+
+https://github.com/hasanvidya/theme_bootstrap_alice
+
+Design By 
+
+Author: Fakrul hasan
+Contact: Hasan@vidyamantra.com
+Website: www.vidyamantra.com
